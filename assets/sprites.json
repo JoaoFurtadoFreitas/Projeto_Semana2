@@ -1,0 +1,686 @@
+{
+    "frames": [
+        {
+            "filename": "frente0000",
+            "frame": {
+                "x": 666,
+                "y": 267,
+                "w": 110,
+                "h": 133
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 110,
+                "h": 133
+            },
+            "sourceSize": {
+                "w": 110,
+                "h": 133
+            }
+        },
+        {
+            "filename": "frente0001",
+            "frame": {
+                "x": 541,
+                "y": 417,
+                "w": 122,
+                "h": 133
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 122,
+                "h": 133
+            },
+            "sourceSize": {
+                "w": 122,
+                "h": 133
+            }
+        },
+        {
+            "filename": "frente0002",
+            "frame": {
+                "x": 0,
+                "y": 551,
+                "w": 163,
+                "h": 134
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 163,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 163,
+                "h": 134
+            }
+        },
+        {
+            "filename": "frente0003",
+            "frame": {
+                "x": 378,
+                "y": 0,
+                "w": 162,
+                "h": 134
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 162,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 162,
+                "h": 134
+            }
+        },
+        {
+            "filename": "frente0004",
+            "frame": {
+                "x": 164,
+                "y": 551,
+                "w": 170,
+                "h": 134
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 170,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 170,
+                "h": 134
+            }
+        },
+        {
+            "filename": "frente0005",
+            "frame": {
+                "x": 166,
+                "y": 416,
+                "w": 165,
+                "h": 134
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 165,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 165,
+                "h": 134
+            }
+        },
+        {
+            "filename": "frente0006",
+            "frame": {
+                "x": 0,
+                "y": 416,
+                "w": 165,
+                "h": 134
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 165,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 165,
+                "h": 134
+            }
+        },
+        {
+            "filename": "frente0007",
+            "frame": {
+                "x": 100,
+                "y": 0,
+                "w": 152,
+                "h": 134
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 134
+            }
+        },
+        {
+            "filename": "baixo0004",
+            "frame": {
+                "x": 541,
+                "y": 137,
+                "w": 103,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 103,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 103,
+                "h": 142
+            }
+        },
+        {
+            "filename": "baixo0005",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 99,
+                "h": 142
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 99,
+                "h": 142
+            },
+            "sourceSize": {
+                "w": 99,
+                "h": 142
+            }
+        },
+        {
+            "filename": "cima0001",
+            "frame": {
+                "x": 0,
+                "y": 276,
+                "w": 118,
+                "h": 139
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 118,
+                "h": 139
+            },
+            "sourceSize": {
+                "w": 118,
+                "h": 139
+            }
+        },
+        {
+            "filename": "cima0000",
+            "frame": {
+                "x": 666,
+                "y": 401,
+                "w": 117,
+                "h": 139
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 117,
+                "h": 139
+            },
+            "sourceSize": {
+                "w": 117,
+                "h": 139
+            }
+        },
+        {
+            "filename": "cima0003",
+            "frame": {
+                "x": 666,
+                "y": 541,
+                "w": 121,
+                "h": 137
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 121,
+                "h": 137
+            },
+            "sourceSize": {
+                "w": 121,
+                "h": 137
+            }
+        },
+        {
+            "filename": "cima0002",
+            "frame": {
+                "x": 253,
+                "y": 0,
+                "w": 124,
+                "h": 136
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 124,
+                "h": 136
+            },
+            "sourceSize": {
+                "w": 124,
+                "h": 136
+            }
+        },
+        {
+            "filename": "cima0004",
+            "frame": {
+                "x": 541,
+                "y": 280,
+                "w": 124,
+                "h": 136
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 124,
+                "h": 136
+            },
+            "sourceSize": {
+                "w": 124,
+                "h": 136
+            }
+        },
+        {
+            "filename": "cima0005",
+            "frame": {
+                "x": 666,
+                "y": 130,
+                "w": 124,
+                "h": 136
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 124,
+                "h": 136
+            },
+            "sourceSize": {
+                "w": 124,
+                "h": 136
+            }
+        },
+        {
+            "filename": "cima0006",
+            "frame": {
+                "x": 541,
+                "y": 0,
+                "w": 124,
+                "h": 136
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 124,
+                "h": 136
+            },
+            "sourceSize": {
+                "w": 124,
+                "h": 136
+            }
+        },
+        {
+            "filename": "baixo0006",
+            "frame": {
+                "x": 335,
+                "y": 551,
+                "w": 110,
+                "h": 134
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 110,
+                "h": 134
+            },
+            "sourceSize": {
+                "w": 110,
+                "h": 134
+            }
+        },
+        {
+            "filename": "frente0001",
+            "frame": {
+                "x": 253,
+                "y": 137,
+                "w": 110,
+                "h": 133
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 110,
+                "h": 133
+            },
+            "sourceSize": {
+                "w": 110,
+                "h": 133
+            }
+        },
+        {
+            "filename": "baixo0000",
+            "frame": {
+                "x": 446,
+                "y": 551,
+                "w": 136,
+                "h": 132
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 132
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 132
+            }
+        },
+        {
+            "filename": "baixo0001",
+            "frame": {
+                "x": 0,
+                "y": 143,
+                "w": 132,
+                "h": 132
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 132,
+                "h": 132
+            },
+            "sourceSize": {
+                "w": 132,
+                "h": 132
+            }
+        },
+        {
+            "filename": "baixo0002",
+            "frame": {
+                "x": 0,
+                "y": 686,
+                "w": 130,
+                "h": 131
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 130,
+                "h": 131
+            },
+            "sourceSize": {
+                "w": 130,
+                "h": 131
+            }
+        },
+        {
+            "filename": "baixo0003",
+            "frame": {
+                "x": 332,
+                "y": 416,
+                "w": 130,
+                "h": 131
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 130,
+                "h": 131
+            },
+            "sourceSize": {
+                "w": 130,
+                "h": 131
+            }
+        },
+        {
+            "filename": "baixo0007",
+            "frame": {
+                "x": 119,
+                "y": 276,
+                "w": 111,
+                "h": 131
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 111,
+                "h": 131
+            },
+            "sourceSize": {
+                "w": 111,
+                "h": 131
+            }
+        },
+        {
+            "filename": "tras0000",
+            "frame": {
+                "x": 666,
+                "y": 0,
+                "w": 125,
+                "h": 129
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 125,
+                "h": 129
+            },
+            "sourceSize": {
+                "w": 125,
+                "h": 129
+            }
+        },
+        {
+            "filename": "tras0001",
+            "frame": {
+                "x": 378,
+                "y": 260,
+                "w": 154,
+                "h": 124
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 154,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 154,
+                "h": 124
+            }
+        },
+        {
+            "filename": "tras0002",
+            "frame": {
+                "x": 131,
+                "y": 686,
+                "w": 152,
+                "h": 124
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 124
+            }
+        },
+        {
+            "filename": "tras0003",
+            "frame": {
+                "x": 378,
+                "y": 135,
+                "w": 147,
+                "h": 124
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 147,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 147,
+                "h": 124
+            }
+        },
+        {
+            "filename": "tras0005",
+            "frame": {
+                "x": 231,
+                "y": 276,
+                "w": 146,
+                "h": 124
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 146,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 146,
+                "h": 124
+            }
+        },
+        {
+            "filename": "tras0006",
+            "frame": {
+                "x": 284,
+                "y": 686,
+                "w": 144,
+                "h": 124
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 144,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 144,
+                "h": 124
+            }
+        },
+        {
+            "filename": "tras0004",
+            "frame": {
+                "x": 429,
+                "y": 686,
+                "w": 143,
+                "h": 124
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 143,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 143,
+                "h": 124
+            }
+        },
+        {
+            "filename": "tras0007",
+            "frame": {
+                "x": 573,
+                "y": 686,
+                "w": 138,
+                "h": 124
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 138,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 138,
+                "h": 124
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "spritesheet.png",
+        "size": {
+            "w": 791,
+            "h": 817
+        },
+        "scale": 1
+    }
+}
