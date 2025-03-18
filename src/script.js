@@ -7,7 +7,7 @@ function preload() {
 }
 
 function create() {
-  this.add.image(390, 210, "background").setScale(0.6); 
+  this.add.image(390, 210, "background").setScale(1); 
 
   // Criando animações
   this.anims.create({
@@ -83,6 +83,7 @@ const config = {
   width: 900,
   height: 500,
   backgroundColor: "#f9f9f9",
+ 
   physics: {
     default: "arcade",
     arcade: {
@@ -90,6 +91,11 @@ const config = {
       debug: false,
     },
   },
+  scale: {
+    mode: Phaser.Scale.RESIZE, //Implementação de responsividade no jogo com scale.
+    parent: 'phaser-example',
+    autoCenter: Phaser.Scale.CENTER_BOTH,
+},
   scene: {
     preload: preload,
     create: create,
